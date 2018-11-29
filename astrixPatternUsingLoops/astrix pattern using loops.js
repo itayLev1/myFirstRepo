@@ -1,4 +1,4 @@
-const rows = 6
+const rows = 5;
 
 for (let i = 1; rows >= i; i++) {
     let row = '';
